@@ -1,0 +1,2 @@
+CRUD em spring boot, nesse projeto eu usei o banco H2,spring boot e Postman. A função dele é adicionar funciónarios em
+um banco de dados, relacionando o funcionário com o departamento.No projeto pode-se notar os padrões de projeto.
